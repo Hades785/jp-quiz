@@ -1,0 +1,12 @@
+[package]
+name = "jp-quiz"
+version = "1.0.0"
+authors = ["フズキ <hades785@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/hades785/jp-quiz/"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.7.3"
